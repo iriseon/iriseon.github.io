@@ -5,9 +5,9 @@
     <description>I am a student with experience in strategic analysis, and a strong interest in design!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Apr 2020 13:32:34 +1000</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2020 13:32:34 +1000</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Wed, 29 Apr 2020 01:08:26 +1000</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2020 01:08:26 +1000</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>AC:NH UI Redesign testing</title>
