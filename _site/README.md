@@ -1,30 +1,10 @@
-Agency Jekyll theme
+Personal Project
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Hello! I just decided to build this website in order to keep track of some of my personal projects and works, as well as teach myself elements of web design.
 
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+I am just a student who has close to no expeirence with web-building and such so please be patient with me while I try and figure things out! 
 
 
-# Demo
+This website is mainly created for my personal entertainment and use :))
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
