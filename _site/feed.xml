@@ -1,116 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to the world of Iris.</title>
-    <description>I am a student with experience in strategic analysis, and a strong interest in design!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Apr 2020 13:32:34 +1000</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2020 13:32:34 +1000</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <title>Looking through the Iris</title>
+    <description>Just a student with skills in stratgic analysis and a high interest in design</description>
+    <link>http://localhost:4000/agency-jekyll-theme//</link>
+    <atom:link href="http://localhost:4000/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 02 May 2020 15:36:49 +1000</pubDate>
+    <lastBuildDate>Sat, 02 May 2020 15:36:49 +1000</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>AC:NH UI Redesign testing</title>
+        <title>Escape</title>
         <description>
 </description>
-        <pubDate>Sun, 21 Feb 2016 08:15:00 +1100</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/21/testing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/21/testing.html</guid>
-        
-        <category>Personal</category>
-        
-        <category>UI</category>
-        
-        <category>Redesign</category>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/17/project-2/</guid>
         
         
-        <category>development</category>
-        
-        <category>design</category>
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>AC:NH UI Redesign</title>
+        <title>Golden</title>
         <description>
 </description>
-        <pubDate>Sun, 21 Feb 2016 08:15:00 +1100</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/21/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/21/phantom-jekyll-template.html</guid>
-        
-        <category>Personal</category>
-        
-        <category>UI</category>
-        
-        <category>Redesign</category>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/16/project-3/</guid>
         
         
-        <category>development</category>
-        
-        <category>design</category>
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>Rescue Themes</title>
+        <title>Treehouse</title>
         <description>
 </description>
-        <pubDate>Sun, 21 Feb 2016 02:56:00 +1100</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/21/rescue-themes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/21/rescue-themes.html</guid>
-        
-        <category>WordPress</category>
-        
-        <category>PHP</category>
-        
-        <category>Sass</category>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/15/project-4/</guid>
         
         
-        <category>development</category>
-        
-        <category>design</category>
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>Weathercast</title>
+        <title>Round Icons</title>
         <description>
 </description>
-        <pubDate>Sun, 21 Feb 2016 02:56:00 +1100</pubDate>
-        <link>http://localhost:4000/development/2016/02/21/weathercast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/21/weathercast.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>API</category>
-        
-        <category>Sass</category>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/15/project-6/</guid>
         
         
-        <category>development</category>
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>Bloc Jams Angular</title>
+        <title>Startup Framework</title>
         <description>
 </description>
-        <pubDate>Sun, 21 Feb 2016 01:15:00 +1100</pubDate>
-        <link>http://localhost:4000/development/2016/02/21/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/21/bloc-jams-angular.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>Sass</category>
-        
-        <category>Grunt</category>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/14/project-5/</guid>
         
         
-        <category>development</category>
+        <category>Web Development</category>
         
       </item>
     
