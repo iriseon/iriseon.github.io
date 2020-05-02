@@ -13,38 +13,21 @@ resume: https://drive.google.com/file/d/16HBErkf6J4I490_NW65DvQqDr7oSTgpO/view?u
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+
+- name: Iris Chong
+  pic: 4
+  position: Me!
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/chongirisseon/
+    - title: behance
+      url: https://www.behance.net/seonchong
+    - title: github
+      url: https://github.com/ankilon
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
