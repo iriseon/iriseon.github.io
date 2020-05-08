@@ -5,9 +5,20 @@
     <description>Just a student with skills in stratgic analysis and a high interest in design</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 May 2020 23:34:41 +1000</pubDate>
-    <lastBuildDate>Sun, 03 May 2020 23:34:41 +1000</lastBuildDate>
+    <pubDate>Fri, 08 May 2020 19:00:44 +1000</pubDate>
+    <lastBuildDate>Fri, 08 May 2020 19:00:44 +1000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>AC &amp;#58; NH UI Redesign</title>
+        <description>
+</description>
+        <pubDate>Thu, 07 May 2020 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/2020/05/07/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/07/project-6/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Escape</title>
@@ -45,17 +56,6 @@
         
         
         <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Round Icons</title>
-        <description>
-</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/07/15/project-6/</guid>
-        
         
       </item>
     

@@ -1,0 +1,16 @@
+---
+title: AC &#58; NH UI Redesign
+subtitle: Personal Project
+layout: default
+modal-id: 6
+date: 2020-05-07
+img: acnh.png
+thumbnail: villagers.jpeg
+alt: image-alt
+project-date: May 2020
+readmore: <a href="https://www.behance.net/gallery/96322167/ACNH-UI-Improvements">Behance</a>
+type: Personal Project
+description: Recently I have been obsessed over the new Nintendo game - Animal Crossing &#58; New Horizons (AC:NH) and have been playing it pretty much non-stop. Whilst this game brings a seemingly endless arsenal of great features, I have come to discover that it had a few usability drawbacks where I felt that some of the user interface could have been streamlined to be easier to use and less tedious. I decided embark on a personal project to see what some of these pain points were as a user myself and create some mockup designs to improve some of these features.  You can view some of my changes and redesigns by visiting my Behance post linked below!
+
+
+---
